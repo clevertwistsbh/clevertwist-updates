@@ -1,0 +1,8 @@
+{
+  "version": "6.20",
+  "release_date": "2026-05-11",
+  "changelog": "Version 6.20 - Sortie initiale. Inclut système de mise à jour automatique, page À propos enrichie, CGU FR/EN/ES, modale d'acceptation au premier lancement, système de licence et bridage 3 machines.",
+  "download_url": "",
+  "min_compatible_version": "6.0",
+  "is_critical": false
+}
