@@ -1,8 +1,8 @@
 {
-  "latest": "6.20",
-  "release_date": "2026-05-11",
-  "changelog": "Version 6.20 - Sortie initiale. Inclut systeme de mise a jour automatique, page A propos enrichie, CGU FR/EN/ES, modale d'acceptation au premier lancement, systeme de licence et bridage 3 machines.",
-  "url": "",
-  "min_compatible_version": "6.0",
+  "latest": "6.21",
+  "release_date": "2026-05-14",
+  "changelog": "Activation du système de licence sécurisé. Validation des clés via serveur GitHub.",
+  "url": "https://clevertwist.gumroad.com/l/trade-book",
+  "min_compatible_version": "6.20",
   "critical": false
 }
