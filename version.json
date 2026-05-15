@@ -1,8 +1,8 @@
 {
-  "latest": "6.21",
-  "release_date": "2026-05-14",
-  "changelog": "Activation du système de licence sécurisé. Validation des clés via serveur GitHub.",
+  "latest": "6.22",
+  "release_date": "2026-05-15",
+  "changelog": "Correction du bug critique de validation de licence : la clé restait demandée à chaque relance. Les licences activées en v6.21 sont migrées automatiquement.",
   "url": "https://clevertwist.gumroad.com/l/trade-book",
-  "min_compatible_version": "6.20",
-  "critical": false
+  "min_compatible_version": "6.0",
+  "critical": true
 }
